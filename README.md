@@ -18,8 +18,6 @@ React with TypeScript.
 
 Tailwind CSS for styling.
 
-Lovable's supported project setup and components.
-
 Supabase Edge Functions for secure backend operations where necessary.
 
 Supabase database for optional verification history.
@@ -499,16 +497,6 @@ Preserve a clean, professional, mobile-responsive design.
 Build the project in stages, beginning with the full UI and navigation, then implement real API integrations and secure backend functionality.
 
 Do not stop after creating the frontend. Continue implementing the actual verification workflows, connect them to real external sources, and test the main features. If a feature requires external credentials or deployment configuration, explain exactly what is needed rather than pretending it already works.
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/59a99967-370b-57da-9167-94925362ada5).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
